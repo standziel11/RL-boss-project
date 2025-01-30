@@ -1,0 +1,11 @@
+# Ignore unnecessary Unity files
+Library/
+Temp/
+Logs/
+UserSettings/
+Builds/
+*.csproj
+*.sln
+*.pidb
+*.pdb
+*.VC.db
